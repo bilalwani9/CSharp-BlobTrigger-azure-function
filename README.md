@@ -1,2 +1,2 @@
-# CSharp-BlobTrigger-azure-function
+# Sample-CSharp-BlobTrigger-azure-function
  

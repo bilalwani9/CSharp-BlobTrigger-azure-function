@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Research\\RnD\\sample-CSharp-BlobTrigger-azure-function\\Sample.CSharp.Common\\Sample.CSharp.Common.csproj": {}
+    "C:\\Research\\RnD\\Sample-C#-BlobTrigger-azure-function\\CSharp-BlobTrigger-azure-function\\Sample.CSharp.Common\\Sample.CSharp.Common.csproj": {}
   },
   "projects": {
-    "C:\\Research\\RnD\\sample-CSharp-BlobTrigger-azure-function\\Sample.CSharp.Common\\Sample.CSharp.Common.csproj": {
+    "C:\\Research\\RnD\\Sample-C#-BlobTrigger-azure-function\\CSharp-BlobTrigger-azure-function\\Sample.CSharp.Common\\Sample.CSharp.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Research\\RnD\\sample-CSharp-BlobTrigger-azure-function\\Sample.CSharp.Common\\Sample.CSharp.Common.csproj",
+        "projectUniqueName": "C:\\Research\\RnD\\Sample-C#-BlobTrigger-azure-function\\CSharp-BlobTrigger-azure-function\\Sample.CSharp.Common\\Sample.CSharp.Common.csproj",
         "projectName": "Sample.CSharp.Common",
-        "projectPath": "C:\\Research\\RnD\\sample-CSharp-BlobTrigger-azure-function\\Sample.CSharp.Common\\Sample.CSharp.Common.csproj",
+        "projectPath": "C:\\Research\\RnD\\Sample-C#-BlobTrigger-azure-function\\CSharp-BlobTrigger-azure-function\\Sample.CSharp.Common\\Sample.CSharp.Common.csproj",
         "packagesPath": "C:\\Users\\BIAHW\\.nuget\\packages\\",
-        "outputPath": "C:\\Research\\RnD\\sample-CSharp-BlobTrigger-azure-function\\Sample.CSharp.Common\\obj\\",
+        "outputPath": "C:\\Research\\RnD\\Sample-C#-BlobTrigger-azure-function\\CSharp-BlobTrigger-azure-function\\Sample.CSharp.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BIAHW\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Research\\RnD\\sample-CSharp-BlobTrigger-azure-function\\Sample.CSharp.Models\\Sample.CSharp.Models.csproj": {
-                "projectPath": "C:\\Research\\RnD\\sample-CSharp-BlobTrigger-azure-function\\Sample.CSharp.Models\\Sample.CSharp.Models.csproj"
+              "C:\\Research\\RnD\\Sample-C#-BlobTrigger-azure-function\\CSharp-BlobTrigger-azure-function\\Sample.CSharp.Models\\Sample.CSharp.Models.csproj": {
+                "projectPath": "C:\\Research\\RnD\\Sample-C#-BlobTrigger-azure-function\\CSharp-BlobTrigger-azure-function\\Sample.CSharp.Models\\Sample.CSharp.Models.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Research\\RnD\\sample-CSharp-BlobTrigger-azure-function\\Sample.CSharp.Models\\Sample.CSharp.Models.csproj": {
+    "C:\\Research\\RnD\\Sample-C#-BlobTrigger-azure-function\\CSharp-BlobTrigger-azure-function\\Sample.CSharp.Models\\Sample.CSharp.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Research\\RnD\\sample-CSharp-BlobTrigger-azure-function\\Sample.CSharp.Models\\Sample.CSharp.Models.csproj",
+        "projectUniqueName": "C:\\Research\\RnD\\Sample-C#-BlobTrigger-azure-function\\CSharp-BlobTrigger-azure-function\\Sample.CSharp.Models\\Sample.CSharp.Models.csproj",
         "projectName": "Sample.CSharp.Models",
-        "projectPath": "C:\\Research\\RnD\\sample-CSharp-BlobTrigger-azure-function\\Sample.CSharp.Models\\Sample.CSharp.Models.csproj",
+        "projectPath": "C:\\Research\\RnD\\Sample-C#-BlobTrigger-azure-function\\CSharp-BlobTrigger-azure-function\\Sample.CSharp.Models\\Sample.CSharp.Models.csproj",
         "packagesPath": "C:\\Users\\BIAHW\\.nuget\\packages\\",
-        "outputPath": "C:\\Research\\RnD\\sample-CSharp-BlobTrigger-azure-function\\Sample.CSharp.Models\\obj\\",
+        "outputPath": "C:\\Research\\RnD\\Sample-C#-BlobTrigger-azure-function\\CSharp-BlobTrigger-azure-function\\Sample.CSharp.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BIAHW\\AppData\\Roaming\\NuGet\\NuGet.Config",
