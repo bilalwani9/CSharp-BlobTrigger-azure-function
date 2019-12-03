@@ -1,2 +1,2 @@
-# Sample-CSharp-BlobTrigger-azure-function
+# Sample C# BlobTrigger Azure Function
  
