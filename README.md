@@ -89,10 +89,10 @@ Right Click On Project AzureFuns.EventHub.Example and Click on Publish Follow do
         
 
 
-#C#Designpattern
-#DependencyInjectionandIoCContainers
-#SeparationofConcern
-#SOLIDPrinciples
-#AzureFunctions(BlobTrigger)
-#BlobContainers
-#AzureServiceBus
+\#CDesignpattern
+\#DependencyInjectionandIoCContainers
+\#SeparationofConcern
+\#SOLIDPrinciples
+\#AzureFunctions(BlobTrigger)
+\#BlobContainers
+\#AzureServiceBus
