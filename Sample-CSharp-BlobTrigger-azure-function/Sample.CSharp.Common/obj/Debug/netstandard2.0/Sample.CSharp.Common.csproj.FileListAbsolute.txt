@@ -1,0 +1,11 @@
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Common\bin\Debug\netstandard2.0\Sample.CSharp.Common.deps.json
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Common\bin\Debug\netstandard2.0\Sample.CSharp.Common.dll
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Common\bin\Debug\netstandard2.0\Sample.CSharp.Common.pdb
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Common\obj\Debug\netstandard2.0\Sample.CSharp.Common.csprojAssemblyReference.cache
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Common\obj\Debug\netstandard2.0\Sample.CSharp.Common.AssemblyInfoInputs.cache
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Common\obj\Debug\netstandard2.0\Sample.CSharp.Common.AssemblyInfo.cs
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Common\obj\Debug\netstandard2.0\Sample.CSharp.Common.dll
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Common\obj\Debug\netstandard2.0\Sample.CSharp.Common.pdb
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Common\bin\Debug\netstandard2.0\Sample.CSharp.Models.dll
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Common\bin\Debug\netstandard2.0\Sample.CSharp.Models.pdb
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Common\obj\Debug\netstandard2.0\Sample.CSharp.Common.csproj.CopyComplete

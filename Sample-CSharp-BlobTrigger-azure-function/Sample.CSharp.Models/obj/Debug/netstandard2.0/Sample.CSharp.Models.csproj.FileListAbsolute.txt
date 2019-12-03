@@ -1,0 +1,8 @@
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Models\bin\Debug\netstandard2.0\Sample.CSharp.Models.deps.json
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Models\bin\Debug\netstandard2.0\Sample.CSharp.Models.dll
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Models\bin\Debug\netstandard2.0\Sample.CSharp.Models.pdb
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Models\obj\Debug\netstandard2.0\Sample.CSharp.Models.csprojAssemblyReference.cache
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Models\obj\Debug\netstandard2.0\Sample.CSharp.Models.AssemblyInfoInputs.cache
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Models\obj\Debug\netstandard2.0\Sample.CSharp.Models.AssemblyInfo.cs
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Models\obj\Debug\netstandard2.0\Sample.CSharp.Models.dll
+C:\Research\RnD\sample-CSharp-BlobTrigger-azure-function\Sample.CSharp.Models\obj\Debug\netstandard2.0\Sample.CSharp.Models.pdb
