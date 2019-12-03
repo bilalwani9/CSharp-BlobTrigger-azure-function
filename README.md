@@ -88,11 +88,11 @@ Right Click On Project AzureFuns.EventHub.Example and Click on Publish Follow do
         b) ServiceBusConnectionString
         
 
-# Key Concepts used
-1. Design pattern
-2. Dependency Injection and IoC Containers
-3. Separation of Concern
-4. SOLID Principles
-5. Azure Functions (Blob Trigger)
-6. Blob Containers
-7. Azure Service Bus
+
+#C#Designpattern
+#DependencyInjectionandIoCContainers
+#SeparationofConcern
+#SOLIDPrinciples
+#AzureFunctions(BlobTrigger)
+#BlobContainers
+#AzureServiceBus
